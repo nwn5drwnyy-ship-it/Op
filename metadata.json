@@ -1,0 +1,6 @@
+{
+  "name": "COMMAND CENTER",
+  "description": "Premium High-Octane game scripts marketplace and deployment controller platform with dynamic top-ups, transaction history, profile state management, and immersive cyberpunk aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
